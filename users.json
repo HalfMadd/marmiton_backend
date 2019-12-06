@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5de0d8a3edc7ff20acebca86"},"name":"Paul","role":"recetteur","mdp":"paul"}
+{"_id":{"$oid":"5dea5ec04d47940834103156"},"name":"Admin","role":"admin","mdp":"admin"}
+{"_id":{"$oid":"5dea76b281a7bb18f81ff391"},"name":"azer","role":"recetteur","mdp":"azer","__v":{"$numberInt":"0"}}

@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5ddfc50cc8085018087786ab"},"nom":"Long"}
+{"_id":{"$oid":"5ddfc51b33f7e3180835ebbf"},"nom":"Facile"}
+{"_id":{"$oid":"5ddfc52433f7e3180835ebc0"},"nom":"Difficile"}
+{"_id":{"$oid":"5ddfc56433f7e3180835ebc1"},"nom":"Moyen"}
+{"_id":{"$oid":"5ddfc57333f7e3180835ebc2"},"nom":"Pas cher"}
+{"_id":{"$oid":"5ddfc57b33f7e3180835ebc3"},"nom":"Cher"}
+{"_id":{"$oid":"5dea69102481a017cc9a848e"},"nom":"Tres Tres Tres dur comme sujet","__v":{"$numberInt":"0"}}

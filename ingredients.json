@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5ddfc852c8085018087786ae"},"name":"Herbes"}
+{"_id":{"$oid":"5ddfc86d33f7e3180835ebc4"},"name":"Epices"}
+{"_id":{"$oid":"5ddfc87b33f7e3180835ebc5"},"name":"Legumes"}
+{"_id":{"$oid":"5ddfc88333f7e3180835ebc6"},"name":"Viande"}
+{"_id":{"$oid":"5ddfc88933f7e3180835ebc7"},"name":"Poisson"}
+{"_id":{"$oid":"5ddfc89233f7e3180835ebc8"},"name":"Riz"}
+{"_id":{"$oid":"5ddfc89633f7e3180835ebc9"},"name":"Pain"}
